@@ -58,9 +58,7 @@ module.exports = {
 };
 ```
 
-# Options
-
-## Options
+### Options
 
 `exclude` - An array of console methods to exclude from removal.
 
