@@ -23,13 +23,13 @@ console.error('bar');
 ### Install the plugin
 
 ```sh
-$ npm install gatsby-plugin-remove-console && npm install babel-plugin-transform-remove-console --save-dev
+npm install gatsby-plugin-remove-console && npm install babel-plugin-transform-remove-console --save-dev
 ```
 
 or
 
 ```sh
-$ yarn add gatsby-plugin-remove-console && yarn add babel-plugin-transform-remove-console --dev
+yarn add gatsby-plugin-remove-console && yarn add babel-plugin-transform-remove-console --dev
 ```
 
 ### Usage
