@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-remove-console",
   "description": "Removes console calls from Gatsby production builds.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "author": "Abdullah Ceylan <ben@abdullahceylan.com>",
   "homepage": "https://github.com/abdullahceylan/gatsby-plugin-remove-console",
