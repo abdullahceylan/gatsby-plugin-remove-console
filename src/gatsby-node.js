@@ -1,4 +1,7 @@
 exports.onCreateBabelConfig = ({ actions }, pluginOptions) => {
+  if (process.env.NODE_ENV !== 'production') {
+    return null;
+  }
   // plugin settings
   const pluginSettings = {
     name: 'babel-plugin-transform-remove-console',
