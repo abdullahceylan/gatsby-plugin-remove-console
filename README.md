@@ -1,6 +1,7 @@
 # gatsby-plugin-remove-console
 
 [![NPM](https://img.shields.io/npm/v/gatsby-plugin-remove-console.svg?colorB=brightgreen)](https://www.npmjs.com/package/gatsby-plugin-remove-console) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+![npm](https://img.shields.io/npm/dw/gatsby-plugin-remove-console.svg?colorB=brightgreen)
 
 A plugin that adds support to remove all `console.*` calls from Gatsby's production builds using `babel-plugin-transform-remove-console`.
 
