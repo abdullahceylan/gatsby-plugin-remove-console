@@ -40,7 +40,7 @@
     "prettier": "^1.12.1"
   },
   "peerDependencies": {
-    "gatsby": ">=1",
+    "gatsby": "^1.0.0 || ^2.0.0 || ^3.0.0",
     "babel-plugin-transform-remove-console": "^6.9.4"
   }
 }
